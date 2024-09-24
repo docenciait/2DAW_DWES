@@ -309,8 +309,6 @@ Expected Output:
 555
 ``` 
 
-
-
 ### Ejercicio 3
 Crea una aplicación de consola llamada Ej3Numbers que muestra la salida de los números de bytes en memoria de cada uno de los siguientes tipos en su máximo y mínimo valor: sbyte, byte, short, ushort, int, uint, long, ulong, Int128, UInt128, Half, float, double, y decimal.
 
