@@ -261,6 +261,7 @@ El backend moderno está estrechamente relacionado con prácticas de DevOps e in
 
 
 2) [To AI OR Not to AI](https://stackoverflow.blog/2023/06/14/hype-or-not-developers-have-something-to-say-about-ai/)
+
 ## 1.4 FUNDAMENTOS DE PROGRAMACIÓN BACKEND
 
 ### LENGUAJE C# 
@@ -272,6 +273,10 @@ No obstante, C# es el que se utiliza mucho para todos los proyectos de .net.
 Veremos los fundamentos con varios ejemplos en clase que hagamos y luego iremos haciendo prácticas.
 
 ![](img/tipos.PNG)
+
+- [Problema con double Misiles Patriot](https://www-users.cse.umn.edu/~arnold/disasters/patriot.html)
+
+-[Misiles Patriot sin ese fallo](https://archive.ph/2023.06.11-132200/https://www.wsj.com/amp/articles/u-s-patriot-missile-is-an-unsung-hero-of-ukraine-war-db6053a0)
 
 ### Ejercicios y Prácticas
 
@@ -303,6 +308,13 @@ Expected Output:
 5 5
 555
 ```
+
+### Ejercicio 3
+Crea una aplicación de consola llamada Ej3Numbers que muestra la salida de los números de bytes en memoria de cada uno de los siguientes tipos en su máximo y mínimo valor: sbyte, byte, short, ushort, int, uint, long, ulong, Int128, UInt128, Half, float, double, y decimal.
+
+Output:
+![](img/ej3.PNG)
+
 
 #### Práctica 1: Calculadora con Menú
 
