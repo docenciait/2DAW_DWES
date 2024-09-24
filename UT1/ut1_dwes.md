@@ -276,7 +276,7 @@ Veremos los fundamentos con varios ejemplos en clase que hagamos y luego iremos 
 
 - [Problema con double Misiles Patriot](https://www-users.cse.umn.edu/~arnold/disasters/patriot.html)
 
--[Misiles Patriot sin ese fallo](https://archive.ph/2023.06.11-132200/https://www.wsj.com/amp/articles/u-s-patriot-missile-is-an-unsung-hero-of-ukraine-war-db6053a0)
+- [Misiles Patriot sin ese fallo](https://archive.ph/2023.06.11-132200/https://www.wsj.com/amp/articles/u-s-patriot-missile-is-an-unsung-hero-of-ukraine-war-db6053a0)
 
 ### Ejercicios y Prácticas
 
