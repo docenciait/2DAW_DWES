@@ -266,6 +266,9 @@ El backend moderno está estrechamente relacionado con prácticas de DevOps e in
 
 ### LENGUAJE C# 
 
+#### REFERENCIA DEL LENGUAJE C#
+[Referencia](https://learn.microsoft.com/es-es/dotnet/csharp/language-reference/)
+
 El lenguaje C# o también llamado csharp es el más utilizado en la plataforma .net. En la que también coexisten, F# y Visual Basic. 
 
 No obstante, C# es el que se utiliza mucho para todos los proyectos de .net.
