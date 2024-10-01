@@ -87,3 +87,7 @@ primeros trimestres del segundo curso del ciclo. Se imparte íntegramente en el 
 # Evaluación de la práctica docente
 
 - Para evaluar la práctica docente, de forma opcional, cada profesor podrá realizar encuestas anónimas a los alumnos para recabar más información que le pueda ayudar a la mejora de sus procedimientos.
+
+# ACTIVIDADES
+
+* [Feria de Empleo](https://customervoice.microsoft.com/Pages/ResponsePage.aspx?id=SJ5RaPODX0Ojihp6p3uph8ILbCSqXotFki9FA1e_Cm9UQ08xN1gxTzAyOEVOOVo5SEpJNkVGSzIzVi4u)
