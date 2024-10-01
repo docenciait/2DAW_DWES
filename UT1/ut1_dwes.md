@@ -283,6 +283,8 @@ Veremos los fundamentos con varios ejemplos en clase que hagamos y luego iremos 
 
 ### Ejercicios y Prácticas
 
+- [Repositorio 1 de ejercicios de clase](https://github.com/docenciait/EjerciciosDeClase)
+
 #### Ejercicio 1:
 
 Escribe un programa en C# que tome tres números (x, y, z) como entrada y muestre los resultados de las siguientes expresiones:
@@ -335,3 +337,39 @@ Cada opción pedirá dos números por teclado al usuario y mostrará el resultad
 
  El programa debe continuar ejecutándose hasta que el usuario seleccione la opción de "Salir".
 
+
+### Práctica 2
+
+Práctica: Sistema Simplificado de Uber 
+
+- Objetivos:
+
+Implementar un sistema que simule el funcionamiento básico de Uber.
+Aplicar principios de programación orientada a objetos, como herencia, composición y polimorfismo.
+
+Gestionar la creación de viajes, la asignación de conductores y la interacción con pasajeros.
+
+* Requisitos:
+
+- Clases Principales:
+
+- Persona: Clase base con propiedades Nombre, Edad, y métodos comunes como MostrarDatos().
+- Conductor: Hereda de Persona y tiene propiedades adicionales como Auto y 
+- Disponibilidad. Implementa métodos como AceptarViaje().
+- Pasajero: Hereda de Persona y tiene métodos para SolicitarViaje() y CalificarConductor().
+- Auto: Contiene propiedades como Marca, Modelo, Matricula, y Capacidad. Está asociado a un Conductor.
+- Viaje: Incluye información sobre el punto de origen, destino, distancia, costo, y el conductor asignado.
+
+* Funcionalidades Básicas:
+
+- Los pasajeros pueden solicitar viajes.
+- Los conductores aceptan o rechazan viajes.
+- Se calcula el costo del viaje basado en la distancia.
+- Los pasajeros califican a los conductores después del viaje.
+
+Diseño UML Básico:
+
+La clase Viaje está asociada tanto a Conductor como a Pasajero.
+Los conductores tienen un auto asociado.
+
+Un pasajero puede solicitar múltiples viajes, pero un viaje tiene un solo pasajero y conductor.
