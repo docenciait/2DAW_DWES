@@ -321,7 +321,7 @@ Output:
 ![](img/ej3.PNG)
 
 
-#### Práctica 1: Calculadora con Menú
+### Práctica 1: Calculadora con Menú
 
 - Descripción:
 
@@ -337,6 +337,7 @@ Cada opción pedirá dos números por teclado al usuario y mostrará el resultad
 
  El programa debe continuar ejecutándose hasta que el usuario seleccione la opción de "Salir".
 
+---
 
 ### Práctica 2
 
