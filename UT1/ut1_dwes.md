@@ -374,3 +374,46 @@ La clase Viaje está asociada tanto a Conductor como a Pasajero.
 Los conductores tienen un auto asociado.
 
 Un pasajero puede solicitar múltiples viajes, pero un viaje tiene un solo pasajero y conductor.
+
+```UML
++-----------------+
+|     Persona     |
++-----------------+
+| - Nombre        |
+| - Edad          |
++-----------------+
+| + MostrarDatos()|
++-----------------+
+        ^
+        |
++-----------------+    +--------------------+
+|   Conductor     |    |     Pasajero        |
++-----------------+    +--------------------+
+| - Auto: Auto    |    |                    |
+| - Disponibilidad|    |                    |
++-----------------+    +--------------------+
+| + AceptarViaje()|    | + SolicitarViaje()  |
++-----------------+    | + CalificarCond.() |
+                       +--------------------+
+
++-----------------+
+|      Auto       |
++-----------------+
+| - Marca         |
+| - Modelo        |
+| - Matricula     |
+| - Capacidad     |
++-----------------+
+
++-----------------+
+|      Viaje      |
++-----------------+
+| - Origen        |
+| - Destino       |
+| - Distancia     |
+| - Costo         |
+| - Conductor     |
+| - Pasajero      |
++-----------------+
+
+```
