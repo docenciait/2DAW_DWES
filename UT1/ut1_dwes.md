@@ -346,6 +346,7 @@ Práctica: Sistema Simplificado de Uber
 - Objetivos:
 
 Implementar un sistema que simule el funcionamiento básico de Uber.
+
 Aplicar principios de programación orientada a objetos, como herencia, composición y polimorfismo.
 
 Gestionar la creación de viajes, la asignación de conductores y la interacción con pasajeros.
@@ -355,8 +356,7 @@ Gestionar la creación de viajes, la asignación de conductores y la interacció
 - Clases Principales:
 
   - Persona: Clase base con propiedades Nombre, Edad, y métodos comunes como MostrarDatos().
-  - Conductor: Hereda de Persona y tiene propiedades adicionales como Auto y 
-  - Disponibilidad. Implementa métodos como AceptarViaje().
+  - Conductor: Hereda de Persona y tiene propiedades adicionales como Auto y Disponibilidad. Implementa métodos como AceptarViaje().
   - Pasajero: Hereda de Persona y tiene métodos para SolicitarViaje() y CalificarConductor().
   - Auto: Contiene propiedades como Marca, Modelo, Matricula, y Capacidad. Está asociado a un Conductor.
   - Viaje: Incluye información sobre el punto de origen, destino, distancia, costo, y el conductor asignado.
