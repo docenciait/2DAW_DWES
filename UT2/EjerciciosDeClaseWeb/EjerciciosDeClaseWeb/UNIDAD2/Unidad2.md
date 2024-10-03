@@ -13,3 +13,7 @@
 - **Controladores MVC**: Similar a Razor Pages. Las aplicaciones de controladores de Modelo-Vista-Controlador (MVC) son para aplicaciones basadas en servidor, pero sin el paradigma basado en páginas.
 - **Blazor WebAssembly**: Un marco de aplicación de una sola página basado en el navegador que utiliza el estándar WebAssembly, similar a los marcos de JavaScript como Angular, React y Vue.
 - **Blazor Server**: Se utiliza para construir aplicaciones con estado, renderizadas en el servidor, que envían eventos de interfaz de usuario y actualizaciones de página a través de WebSockets para proporcionar la sensación de una aplicación de una sola página del lado del cliente, pero con la facilidad de desarrollo de una aplicación renderizada en el servidor.
+
+## Cómo funcionan las páginas dotnet
+
+![](img/funcionamientodotnet.PNG)

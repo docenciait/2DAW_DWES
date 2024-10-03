@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EjerciciosDeClaseWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a502a49fb0d1aa552f7e893d95601fb7cdcc938")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+30223c6737e8eed6d9df30cc890e3a19c5a03705")]
 [assembly: System.Reflection.AssemblyProductAttribute("EjerciciosDeClaseWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EjerciciosDeClaseWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
