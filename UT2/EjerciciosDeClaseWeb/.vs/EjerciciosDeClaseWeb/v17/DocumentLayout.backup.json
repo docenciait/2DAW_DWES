@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Deva\\ISIDRAGUZMAN\\2DAW_DWES\\UT2\\EjerciciosDeClaseWeb\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AEDC0667-45A4-418C-8814-F284D2B1E60F}|EjerciciosDeClaseWeb\\EjerciciosDeClaseWeb.csproj|c:\\users\\deva\\isidraguzman\\2daw_dwes\\ut2\\ejerciciosdeclaseweb\\ejerciciosdeclaseweb\\unidad2\\unidad2.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{AEDC0667-45A4-418C-8814-F284D2B1E60F}|EjerciciosDeClaseWeb\\EjerciciosDeClaseWeb.csproj|solutionrelative:ejerciciosdeclaseweb\\unidad2\\unidad2.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEDC0667-45A4-418C-8814-F284D2B1E60F}|EjerciciosDeClaseWeb\\EjerciciosDeClaseWeb.csproj|c:\\users\\deva\\isidraguzman\\2daw_dwes\\ut2\\ejerciciosdeclaseweb\\ejerciciosdeclaseweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEDC0667-45A4-418C-8814-F284D2B1E60F}|EjerciciosDeClaseWeb\\EjerciciosDeClaseWeb.csproj|solutionrelative:ejerciciosdeclaseweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Unidad2.md",
+              "DocumentMoniker": "C:\\Users\\Deva\\ISIDRAGUZMAN\\2DAW_DWES\\UT2\\EjerciciosDeClaseWeb\\EjerciciosDeClaseWeb\\UNIDAD2\\Unidad2.md",
+              "RelativeDocumentMoniker": "EjerciciosDeClaseWeb\\UNIDAD2\\Unidad2.md",
+              "ToolTip": "C:\\Users\\Deva\\ISIDRAGUZMAN\\2DAW_DWES\\UT2\\EjerciciosDeClaseWeb\\EjerciciosDeClaseWeb\\UNIDAD2\\Unidad2.md",
+              "RelativeToolTip": "EjerciciosDeClaseWeb\\UNIDAD2\\Unidad2.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-10-03T22:32:55.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Deva\\ISIDRAGUZMAN\\2DAW_DWES\\UT2\\EjerciciosDeClaseWeb\\EjerciciosDeClaseWeb\\Program.cs",
+              "RelativeDocumentMoniker": "EjerciciosDeClaseWeb\\Program.cs",
+              "ToolTip": "C:\\Users\\Deva\\ISIDRAGUZMAN\\2DAW_DWES\\UT2\\EjerciciosDeClaseWeb\\EjerciciosDeClaseWeb\\Program.cs",
+              "RelativeToolTip": "EjerciciosDeClaseWeb\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T22:30:59.231Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
