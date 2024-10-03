@@ -354,19 +354,19 @@ Gestionar la creación de viajes, la asignación de conductores y la interacció
 
 - Clases Principales:
 
-- Persona: Clase base con propiedades Nombre, Edad, y métodos comunes como MostrarDatos().
-- Conductor: Hereda de Persona y tiene propiedades adicionales como Auto y 
-- Disponibilidad. Implementa métodos como AceptarViaje().
-- Pasajero: Hereda de Persona y tiene métodos para SolicitarViaje() y CalificarConductor().
-- Auto: Contiene propiedades como Marca, Modelo, Matricula, y Capacidad. Está asociado a un Conductor.
-- Viaje: Incluye información sobre el punto de origen, destino, distancia, costo, y el conductor asignado.
+  - Persona: Clase base con propiedades Nombre, Edad, y métodos comunes como MostrarDatos().
+  - Conductor: Hereda de Persona y tiene propiedades adicionales como Auto y 
+  - Disponibilidad. Implementa métodos como AceptarViaje().
+  - Pasajero: Hereda de Persona y tiene métodos para SolicitarViaje() y CalificarConductor().
+  - Auto: Contiene propiedades como Marca, Modelo, Matricula, y Capacidad. Está asociado a un Conductor.
+  - Viaje: Incluye información sobre el punto de origen, destino, distancia, costo, y el conductor asignado.
 
 * Funcionalidades Básicas:
 
-- Los pasajeros pueden solicitar viajes.
-- Los conductores aceptan o rechazan viajes.
-- Se calcula el costo del viaje basado en la distancia.
-- Los pasajeros califican a los conductores después del viaje.
+  - Los pasajeros pueden solicitar viajes.
+  - Los conductores aceptan o rechazan viajes.
+  - Se calcula el costo del viaje basado en la distancia.
+  - Los pasajeros califican a los conductores después del viaje.
 
 Diseño UML Básico:
 
