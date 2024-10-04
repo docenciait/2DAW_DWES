@@ -29,8 +29,9 @@
 
 ## Páginas con estilos modernos de gran rendimiento
 
-![](website.PNG)
+![](img/website.PNG)
 
 ## Funcionamiento de las APIs
 
-![](restapi.PNG)
+![](img/restapi.PNG)
+
