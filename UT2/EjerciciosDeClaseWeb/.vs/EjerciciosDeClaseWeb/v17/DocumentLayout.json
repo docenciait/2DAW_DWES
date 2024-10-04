@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Deva\\ISIDRAGUZMAN\\2DAW_DWES\\UT2\\EjerciciosDeClaseWeb\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AEDC0667-45A4-418C-8814-F284D2B1E60F}|EjerciciosDeClaseWeb\\EjerciciosDeClaseWeb.csproj|c:\\users\\deva\\isidraguzman\\2daw_dwes\\ut2\\ejerciciosdeclaseweb\\ejerciciosdeclaseweb\\unidad2\\unidad2.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{AEDC0667-45A4-418C-8814-F284D2B1E60F}|EjerciciosDeClaseWeb\\EjerciciosDeClaseWeb.csproj|solutionrelative:ejerciciosdeclaseweb\\unidad2\\unidad2.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{AEDC0667-45A4-418C-8814-F284D2B1E60F}|EjerciciosDeClaseWeb\\EjerciciosDeClaseWeb.csproj|c:\\users\\deva\\isidraguzman\\2daw_dwes\\ut2\\ejerciciosdeclaseweb\\ejerciciosdeclaseweb\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AEDC0667-45A4-418C-8814-F284D2B1E60F}|EjerciciosDeClaseWeb\\EjerciciosDeClaseWeb.csproj|solutionrelative:ejerciciosdeclaseweb\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEDC0667-45A4-418C-8814-F284D2B1E60F}|EjerciciosDeClaseWeb\\EjerciciosDeClaseWeb.csproj|c:\\users\\deva\\isidraguzman\\2daw_dwes\\ut2\\ejerciciosdeclaseweb\\ejerciciosdeclaseweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AEDC0667-45A4-418C-8814-F284D2B1E60F}|EjerciciosDeClaseWeb\\EjerciciosDeClaseWeb.csproj|solutionrelative:ejerciciosdeclaseweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AEDC0667-45A4-418C-8814-F284D2B1E60F}|EjerciciosDeClaseWeb\\EjerciciosDeClaseWeb.csproj|c:\\users\\deva\\isidraguzman\\2daw_dwes\\ut2\\ejerciciosdeclaseweb\\ejerciciosdeclaseweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AEDC0667-45A4-418C-8814-F284D2B1E60F}|EjerciciosDeClaseWeb\\EjerciciosDeClaseWeb.csproj|solutionrelative:ejerciciosdeclaseweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEDC0667-45A4-418C-8814-F284D2B1E60F}|EjerciciosDeClaseWeb\\EjerciciosDeClaseWeb.csproj|c:\\users\\deva\\isidraguzman\\2daw_dwes\\ut2\\ejerciciosdeclaseweb\\ejerciciosdeclaseweb\\unidad2\\unidad2.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{AEDC0667-45A4-418C-8814-F284D2B1E60F}|EjerciciosDeClaseWeb\\EjerciciosDeClaseWeb.csproj|solutionrelative:ejerciciosdeclaseweb\\unidad2\\unidad2.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,29 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Deva\\ISIDRAGUZMAN\\2DAW_DWES\\UT2\\EjerciciosDeClaseWeb\\EjerciciosDeClaseWeb\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "EjerciciosDeClaseWeb\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Deva\\ISIDRAGUZMAN\\2DAW_DWES\\UT2\\EjerciciosDeClaseWeb\\EjerciciosDeClaseWeb\\Properties\\launchSettings.json",
+              "RelativeToolTip": "EjerciciosDeClaseWeb\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-04T07:15:29.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Deva\\ISIDRAGUZMAN\\2DAW_DWES\\UT2\\EjerciciosDeClaseWeb\\EjerciciosDeClaseWeb\\appsettings.json",
+              "RelativeDocumentMoniker": "EjerciciosDeClaseWeb\\appsettings.json",
+              "ToolTip": "C:\\Users\\Deva\\ISIDRAGUZMAN\\2DAW_DWES\\UT2\\EjerciciosDeClaseWeb\\EjerciciosDeClaseWeb\\appsettings.json",
+              "RelativeToolTip": "EjerciciosDeClaseWeb\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-04T07:15:24.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Deva\\ISIDRAGUZMAN\\2DAW_DWES\\UT2\\EjerciciosDeClaseWeb\\EjerciciosDeClaseWeb\\Program.cs",
               "RelativeDocumentMoniker": "EjerciciosDeClaseWeb\\Program.cs",
               "ToolTip": "C:\\Users\\Deva\\ISIDRAGUZMAN\\2DAW_DWES\\UT2\\EjerciciosDeClaseWeb\\EjerciciosDeClaseWeb\\Program.cs",
               "RelativeToolTip": "EjerciciosDeClaseWeb\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAkwAsAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA0wAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T22:57:53.561Z"
+              "WhenOpened": "2024-10-03T22:57:53.561Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Unidad2.md",
               "DocumentMoniker": "C:\\Users\\Deva\\ISIDRAGUZMAN\\2DAW_DWES\\UT2\\EjerciciosDeClaseWeb\\EjerciciosDeClaseWeb\\UNIDAD2\\Unidad2.md",
               "RelativeDocumentMoniker": "EjerciciosDeClaseWeb\\UNIDAD2\\Unidad2.md",
               "ToolTip": "C:\\Users\\Deva\\ISIDRAGUZMAN\\2DAW_DWES\\UT2\\EjerciciosDeClaseWeb\\EjerciciosDeClaseWeb\\UNIDAD2\\Unidad2.md",
               "RelativeToolTip": "EjerciciosDeClaseWeb\\UNIDAD2\\Unidad2.md",
-              "ViewState": "AgIAABUAAAAAAAAAAAAkwCMAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAADsAAAAAAAAAAAAkwEoAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2024-10-03T22:32:55.35Z",
               "EditorCaption": ""
