@@ -7,9 +7,19 @@ namespace EjerciciosDeClaseWeb
             var builder = WebApplication.CreateBuilder(args);
             var app = builder.Build();
 
-            app.MapGet("/", () => "Hello World!");
+            app.MapGet("/", new Imprimir().Imprime);
+
+            app.
 
             app.Run();
+        }
+
+        public class Imprimir
+        {
+            public string Imprime()
+            {
+                return "Hello World";
+            }
         }
     }
 }

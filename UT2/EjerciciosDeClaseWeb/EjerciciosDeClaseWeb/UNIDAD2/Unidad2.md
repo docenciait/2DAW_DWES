@@ -4,6 +4,19 @@
 
 ![](img/dotnet.PNG) 
 
+## Cómo funcionan las páginas dotnet
+
+![](img/funcionamientodotnet.PNG)
+
+
+## Cómo se estructura una página
+
+![](img/funcionamientodotnet.PNG)
+
+## Cuál es flujo de una apliación web .net
+
+![](flujodotnet.PNG)
+
 ## Qué podemos hacer con .NET CORE
 
 - **APIs mínimas**: APIs HTTP simples que pueden ser consumidas por aplicaciones móviles o aplicaciones de una sola página basadas en navegador.
@@ -14,6 +27,10 @@
 - **Blazor WebAssembly**: Un marco de aplicación de una sola página basado en el navegador que utiliza el estándar WebAssembly, similar a los marcos de JavaScript como Angular, React y Vue.
 - **Blazor Server**: Se utiliza para construir aplicaciones con estado, renderizadas en el servidor, que envían eventos de interfaz de usuario y actualizaciones de página a través de WebSockets para proporcionar la sensación de una aplicación de una sola página del lado del cliente, pero con la facilidad de desarrollo de una aplicación renderizada en el servidor.
 
-## Cómo funcionan las páginas dotnet
+## Páginas con estilos modernos de gran rendimiento
 
-![](img/funcionamientodotnet.PNG)
+![](website.PNG)
+
+## Funcionamiento de las APIs
+
+![](restapi.PNG)
