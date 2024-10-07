@@ -95,3 +95,7 @@ Si no quieres restaurar o construir, usar flags: ```--no-restore``` y ```--no-bu
 ### Primera aplicación
 
 ![](img/primeraapp.PNG)
+
+### Middleware
+
+![img/middleware.PNG]

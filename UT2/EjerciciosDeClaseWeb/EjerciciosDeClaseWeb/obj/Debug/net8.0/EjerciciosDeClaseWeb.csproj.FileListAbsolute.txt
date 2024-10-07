@@ -5,6 +5,9 @@ C:\Users\Deva\ISIDRAGUZMAN\2DAW_DWES\UT2\EjerciciosDeClaseWeb\EjerciciosDeClaseW
 C:\Users\Deva\ISIDRAGUZMAN\2DAW_DWES\UT2\EjerciciosDeClaseWeb\EjerciciosDeClaseWeb\bin\Debug\net8.0\EjerciciosDeClaseWeb.runtimeconfig.json
 C:\Users\Deva\ISIDRAGUZMAN\2DAW_DWES\UT2\EjerciciosDeClaseWeb\EjerciciosDeClaseWeb\bin\Debug\net8.0\EjerciciosDeClaseWeb.dll
 C:\Users\Deva\ISIDRAGUZMAN\2DAW_DWES\UT2\EjerciciosDeClaseWeb\EjerciciosDeClaseWeb\bin\Debug\net8.0\EjerciciosDeClaseWeb.pdb
+C:\Users\Deva\ISIDRAGUZMAN\2DAW_DWES\UT2\EjerciciosDeClaseWeb\EjerciciosDeClaseWeb\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Deva\ISIDRAGUZMAN\2DAW_DWES\UT2\EjerciciosDeClaseWeb\EjerciciosDeClaseWeb\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Deva\ISIDRAGUZMAN\2DAW_DWES\UT2\EjerciciosDeClaseWeb\EjerciciosDeClaseWeb\obj\Debug\net8.0\EjerciciosDeClaseWeb.csproj.AssemblyReference.cache
 C:\Users\Deva\ISIDRAGUZMAN\2DAW_DWES\UT2\EjerciciosDeClaseWeb\EjerciciosDeClaseWeb\obj\Debug\net8.0\EjerciciosDeClaseWeb.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Deva\ISIDRAGUZMAN\2DAW_DWES\UT2\EjerciciosDeClaseWeb\EjerciciosDeClaseWeb\obj\Debug\net8.0\EjerciciosDeClaseWeb.AssemblyInfoInputs.cache
 C:\Users\Deva\ISIDRAGUZMAN\2DAW_DWES\UT2\EjerciciosDeClaseWeb\EjerciciosDeClaseWeb\obj\Debug\net8.0\EjerciciosDeClaseWeb.AssemblyInfo.cs
@@ -19,8 +22,12 @@ C:\Users\Deva\ISIDRAGUZMAN\2DAW_DWES\UT2\EjerciciosDeClaseWeb\EjerciciosDeClaseW
 C:\Users\Deva\ISIDRAGUZMAN\2DAW_DWES\UT2\EjerciciosDeClaseWeb\EjerciciosDeClaseWeb\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EjerciciosDeClaseWeb.props
 C:\Users\Deva\ISIDRAGUZMAN\2DAW_DWES\UT2\EjerciciosDeClaseWeb\EjerciciosDeClaseWeb\obj\Debug\net8.0\staticwebassets.pack.json
 C:\Users\Deva\ISIDRAGUZMAN\2DAW_DWES\UT2\EjerciciosDeClaseWeb\EjerciciosDeClaseWeb\obj\Debug\net8.0\scopedcss\bundle\EjerciciosDeClaseWeb.styles.css
+C:\Users\Deva\ISIDRAGUZMAN\2DAW_DWES\UT2\EjerciciosDeClaseWeb\EjerciciosDeClaseWeb\obj\Debug\net8.0\Ejercici.E0F248A6.Up2Date
 C:\Users\Deva\ISIDRAGUZMAN\2DAW_DWES\UT2\EjerciciosDeClaseWeb\EjerciciosDeClaseWeb\obj\Debug\net8.0\EjerciciosDeClaseWeb.dll
 C:\Users\Deva\ISIDRAGUZMAN\2DAW_DWES\UT2\EjerciciosDeClaseWeb\EjerciciosDeClaseWeb\obj\Debug\net8.0\refint\EjerciciosDeClaseWeb.dll
 C:\Users\Deva\ISIDRAGUZMAN\2DAW_DWES\UT2\EjerciciosDeClaseWeb\EjerciciosDeClaseWeb\obj\Debug\net8.0\EjerciciosDeClaseWeb.pdb
 C:\Users\Deva\ISIDRAGUZMAN\2DAW_DWES\UT2\EjerciciosDeClaseWeb\EjerciciosDeClaseWeb\obj\Debug\net8.0\EjerciciosDeClaseWeb.genruntimeconfig.cache
 C:\Users\Deva\ISIDRAGUZMAN\2DAW_DWES\UT2\EjerciciosDeClaseWeb\EjerciciosDeClaseWeb\obj\Debug\net8.0\ref\EjerciciosDeClaseWeb.dll
+C:\Users\Deva\ISIDRAGUZMAN\2DAW_DWES\UT2\EjerciciosDeClaseWeb\EjerciciosDeClaseWeb\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Deva\ISIDRAGUZMAN\2DAW_DWES\UT2\EjerciciosDeClaseWeb\EjerciciosDeClaseWeb\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Deva\ISIDRAGUZMAN\2DAW_DWES\UT2\EjerciciosDeClaseWeb\EjerciciosDeClaseWeb\obj\Debug\net8.0\EjerciciosDeClaseWeb.MvcApplicationPartsAssemblyInfo.cs
