@@ -8,6 +8,12 @@ namespace Ejercicios1
         {
             WebApplicationBuilder builder = WebApplication.CreateBuilder(args);
 
+            // Add services for swagger
+
+            builder.Services.AddEndpointsApiExplorer();
+            builder.Services.AddSwaggerGen();
+
+
             builder.Services.AddHttpLogging(
                 opts => opts.LoggingFields = HttpLoggingFields.RequestProperties
            );
@@ -20,6 +26,8 @@ namespace Ejercicios1
             if (app.Environment.IsDevelopment())
             {
                 app.UseHttpLogging();
+                app.UseSwagger();
+                app.UseSwaggerUI();
             }
           
             

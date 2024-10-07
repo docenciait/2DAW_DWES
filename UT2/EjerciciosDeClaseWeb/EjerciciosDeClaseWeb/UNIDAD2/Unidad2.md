@@ -99,3 +99,9 @@ Si no quieres restaurar o construir, usar flags: ```--no-restore``` y ```--no-bu
 ### Middleware
 
 ![](img/middleware.PNG)
+
+### Landing page
+
+![](img/landingpage.PNG)
+
+![](img/opcionesuse.PNG)

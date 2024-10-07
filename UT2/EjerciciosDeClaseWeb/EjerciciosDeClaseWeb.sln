@@ -5,7 +5,13 @@ VisualStudioVersion = 17.11.35222.181
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EjerciciosDeClaseWeb", "EjerciciosDeClaseWeb\EjerciciosDeClaseWeb.csproj", "{AEDC0667-45A4-418C-8814-F284D2B1E60F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicios1", "Ejercicios1\Ejercicios1.csproj", "{717D938C-536C-4E87-8C90-62AAA14006A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicios1", "Ejercicios1\Ejercicios1.csproj", "{717D938C-536C-4E87-8C90-62AAA14006A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicios2", "Ejercicios2\Ejercicios2.csproj", "{501EF6A1-5DD3-4137-B595-0BA73B77DA1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio3", "Ejercicio3\Ejercicio3.csproj", "{C0BF3F95-A9AF-4A41-BC43-9A718FC45651}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio4", "Ejercicio4\Ejercicio4.csproj", "{BEDC4CEE-CB23-4855-AFC4-581D87226C74}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +27,18 @@ Global
 		{717D938C-536C-4E87-8C90-62AAA14006A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{717D938C-536C-4E87-8C90-62AAA14006A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{717D938C-536C-4E87-8C90-62AAA14006A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{501EF6A1-5DD3-4137-B595-0BA73B77DA1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{501EF6A1-5DD3-4137-B595-0BA73B77DA1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{501EF6A1-5DD3-4137-B595-0BA73B77DA1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{501EF6A1-5DD3-4137-B595-0BA73B77DA1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0BF3F95-A9AF-4A41-BC43-9A718FC45651}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0BF3F95-A9AF-4A41-BC43-9A718FC45651}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0BF3F95-A9AF-4A41-BC43-9A718FC45651}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0BF3F95-A9AF-4A41-BC43-9A718FC45651}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEDC4CEE-CB23-4855-AFC4-581D87226C74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEDC4CEE-CB23-4855-AFC4-581D87226C74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEDC4CEE-CB23-4855-AFC4-581D87226C74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEDC4CEE-CB23-4855-AFC4-581D87226C74}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

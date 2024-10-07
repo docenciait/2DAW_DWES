@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Deva\\ISIDRAGUZMAN\\2DAW_DWES\\UT2\\EjerciciosDeClaseWeb\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AEDC0667-45A4-418C-8814-F284D2B1E60F}|EjerciciosDeClaseWeb\\EjerciciosDeClaseWeb.csproj|c:\\users\\deva\\isidraguzman\\2daw_dwes\\ut2\\ejerciciosdeclaseweb\\ejerciciosdeclaseweb\\unidad2\\unidad2.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{AEDC0667-45A4-418C-8814-F284D2B1E60F}|EjerciciosDeClaseWeb\\EjerciciosDeClaseWeb.csproj|solutionrelative:ejerciciosdeclaseweb\\unidad2\\unidad2.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{717D938C-536C-4E87-8C90-62AAA14006A9}|Ejercicios1\\Ejercicios1.csproj|c:\\users\\deva\\isidraguzman\\2daw_dwes\\ut2\\ejerciciosdeclaseweb\\ejercicios1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{717D938C-536C-4E87-8C90-62AAA14006A9}|Ejercicios1\\Ejercicios1.csproj|solutionrelative:ejercicios1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{717D938C-536C-4E87-8C90-62AAA14006A9}|Ejercicios1\\Ejercicios1.csproj|c:\\users\\deva\\isidraguzman\\2daw_dwes\\ut2\\ejerciciosdeclaseweb\\ejercicios1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{717D938C-536C-4E87-8C90-62AAA14006A9}|Ejercicios1\\Ejercicios1.csproj|solutionrelative:ejercicios1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{717D938C-536C-4E87-8C90-62AAA14006A9}|Ejercicios1\\Ejercicios1.csproj|c:\\users\\deva\\isidraguzman\\2daw_dwes\\ut2\\ejerciciosdeclaseweb\\ejercicios1\\ejercicios1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{717D938C-536C-4E87-8C90-62AAA14006A9}|Ejercicios1\\Ejercicios1.csproj|solutionrelative:ejercicios1\\ejercicios1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{501EF6A1-5DD3-4137-B595-0BA73B77DA1F}|Ejercicios2\\Ejercicios2.csproj|c:\\users\\deva\\isidraguzman\\2daw_dwes\\ut2\\ejerciciosdeclaseweb\\ejercicios2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{501EF6A1-5DD3-4137-B595-0BA73B77DA1F}|Ejercicios2\\Ejercicios2.csproj|solutionrelative:ejercicios2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,51 +19,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Unidad2.md",
-              "DocumentMoniker": "C:\\Users\\Deva\\ISIDRAGUZMAN\\2DAW_DWES\\UT2\\EjerciciosDeClaseWeb\\EjerciciosDeClaseWeb\\UNIDAD2\\Unidad2.md",
-              "RelativeDocumentMoniker": "EjerciciosDeClaseWeb\\UNIDAD2\\Unidad2.md",
-              "ToolTip": "C:\\Users\\Deva\\ISIDRAGUZMAN\\2DAW_DWES\\UT2\\EjerciciosDeClaseWeb\\EjerciciosDeClaseWeb\\UNIDAD2\\Unidad2.md",
-              "RelativeToolTip": "EjerciciosDeClaseWeb\\UNIDAD2\\Unidad2.md",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAswGQAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-10-07T04:28:23.715Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Deva\\ISIDRAGUZMAN\\2DAW_DWES\\UT2\\EjerciciosDeClaseWeb\\Ejercicios1\\appsettings.json",
-              "RelativeDocumentMoniker": "Ejercicios1\\appsettings.json",
-              "ToolTip": "C:\\Users\\Deva\\ISIDRAGUZMAN\\2DAW_DWES\\UT2\\EjerciciosDeClaseWeb\\Ejercicios1\\appsettings.json",
-              "RelativeToolTip": "Ejercicios1\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-06T22:10:32.923Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Ejercicios1.csproj",
-              "DocumentMoniker": "C:\\Users\\Deva\\ISIDRAGUZMAN\\2DAW_DWES\\UT2\\EjerciciosDeClaseWeb\\Ejercicios1\\Ejercicios1.csproj",
-              "RelativeDocumentMoniker": "Ejercicios1\\Ejercicios1.csproj",
-              "ToolTip": "C:\\Users\\Deva\\ISIDRAGUZMAN\\2DAW_DWES\\UT2\\EjerciciosDeClaseWeb\\Ejercicios1\\Ejercicios1.csproj",
-              "RelativeToolTip": "Ejercicios1\\Ejercicios1.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-06T22:10:01.115Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Deva\\ISIDRAGUZMAN\\2DAW_DWES\\UT2\\EjerciciosDeClaseWeb\\Ejercicios1\\Program.cs",
-              "RelativeDocumentMoniker": "Ejercicios1\\Program.cs",
-              "ToolTip": "C:\\Users\\Deva\\ISIDRAGUZMAN\\2DAW_DWES\\UT2\\EjerciciosDeClaseWeb\\Ejercicios1\\Program.cs",
-              "RelativeToolTip": "Ejercicios1\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAUwBMAAAAfAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Deva\\ISIDRAGUZMAN\\2DAW_DWES\\UT2\\EjerciciosDeClaseWeb\\Ejercicios2\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicios2\\Program.cs",
+              "ToolTip": "C:\\Users\\Deva\\ISIDRAGUZMAN\\2DAW_DWES\\UT2\\EjerciciosDeClaseWeb\\Ejercicios2\\Program.cs",
+              "RelativeToolTip": "Ejercicios2\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwCQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T21:24:11.797Z"
+              "WhenOpened": "2024-10-07T05:14:55.348Z",
+              "EditorCaption": ""
             }
           ]
         }

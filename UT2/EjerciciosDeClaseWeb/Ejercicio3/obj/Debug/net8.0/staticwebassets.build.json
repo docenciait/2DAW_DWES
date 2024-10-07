@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "TS4iAwqNdH3AdBqAdb88Wnfg3guNRxkGw+IOG3qbNzQ=",
+  "Source": "Ejercicio3",
+  "BasePath": "_content/Ejercicio3",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Ejercicio3\\wwwroot",
+      "Source": "Ejercicio3",
+      "ContentRoot": "C:\\Users\\Deva\\ISIDRAGUZMAN\\2DAW_DWES\\UT2\\EjerciciosDeClaseWeb\\Ejercicio3\\wwwroot\\",
+      "BasePath": "_content/Ejercicio3",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Deva\\ISIDRAGUZMAN\\2DAW_DWES\\UT2\\EjerciciosDeClaseWeb\\Ejercicio3\\wwwroot\\moon.jpg",
+      "SourceId": "Ejercicio3",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Deva\\ISIDRAGUZMAN\\2DAW_DWES\\UT2\\EjerciciosDeClaseWeb\\Ejercicio3\\wwwroot\\",
+      "BasePath": "_content/Ejercicio3",
+      "RelativePath": "moon.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\moon.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Deva\\ISIDRAGUZMAN\\2DAW_DWES\\UT2\\EjerciciosDeClaseWeb\\Ejercicio3\\wwwroot\\mountain.jpg",
+      "SourceId": "Ejercicio3",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Deva\\ISIDRAGUZMAN\\2DAW_DWES\\UT2\\EjerciciosDeClaseWeb\\Ejercicio3\\wwwroot\\",
+      "BasePath": "_content/Ejercicio3",
+      "RelativePath": "mountain.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\mountain.jpg"
+    }
+  ]
+}

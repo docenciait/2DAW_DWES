@@ -5,10 +5,16 @@ C:\Users\Deva\ISIDRAGUZMAN\2DAW_DWES\UT2\EjerciciosDeClaseWeb\Ejercicios1\bin\De
 C:\Users\Deva\ISIDRAGUZMAN\2DAW_DWES\UT2\EjerciciosDeClaseWeb\Ejercicios1\bin\Debug\net8.0\Ejercicios1.runtimeconfig.json
 C:\Users\Deva\ISIDRAGUZMAN\2DAW_DWES\UT2\EjerciciosDeClaseWeb\Ejercicios1\bin\Debug\net8.0\Ejercicios1.dll
 C:\Users\Deva\ISIDRAGUZMAN\2DAW_DWES\UT2\EjerciciosDeClaseWeb\Ejercicios1\bin\Debug\net8.0\Ejercicios1.pdb
+C:\Users\Deva\ISIDRAGUZMAN\2DAW_DWES\UT2\EjerciciosDeClaseWeb\Ejercicios1\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Deva\ISIDRAGUZMAN\2DAW_DWES\UT2\EjerciciosDeClaseWeb\Ejercicios1\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Deva\ISIDRAGUZMAN\2DAW_DWES\UT2\EjerciciosDeClaseWeb\Ejercicios1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Deva\ISIDRAGUZMAN\2DAW_DWES\UT2\EjerciciosDeClaseWeb\Ejercicios1\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Deva\ISIDRAGUZMAN\2DAW_DWES\UT2\EjerciciosDeClaseWeb\Ejercicios1\obj\Debug\net8.0\Ejercicios1.csproj.AssemblyReference.cache
 C:\Users\Deva\ISIDRAGUZMAN\2DAW_DWES\UT2\EjerciciosDeClaseWeb\Ejercicios1\obj\Debug\net8.0\Ejercicios1.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Deva\ISIDRAGUZMAN\2DAW_DWES\UT2\EjerciciosDeClaseWeb\Ejercicios1\obj\Debug\net8.0\Ejercicios1.AssemblyInfoInputs.cache
 C:\Users\Deva\ISIDRAGUZMAN\2DAW_DWES\UT2\EjerciciosDeClaseWeb\Ejercicios1\obj\Debug\net8.0\Ejercicios1.AssemblyInfo.cs
 C:\Users\Deva\ISIDRAGUZMAN\2DAW_DWES\UT2\EjerciciosDeClaseWeb\Ejercicios1\obj\Debug\net8.0\Ejercicios1.csproj.CoreCompileInputs.cache
+C:\Users\Deva\ISIDRAGUZMAN\2DAW_DWES\UT2\EjerciciosDeClaseWeb\Ejercicios1\obj\Debug\net8.0\Ejercicios1.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Deva\ISIDRAGUZMAN\2DAW_DWES\UT2\EjerciciosDeClaseWeb\Ejercicios1\obj\Debug\net8.0\Ejercicios1.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Deva\ISIDRAGUZMAN\2DAW_DWES\UT2\EjerciciosDeClaseWeb\Ejercicios1\obj\Debug\net8.0\Ejercicios1.sourcelink.json
 C:\Users\Deva\ISIDRAGUZMAN\2DAW_DWES\UT2\EjerciciosDeClaseWeb\Ejercicios1\obj\Debug\net8.0\staticwebassets.build.json
@@ -19,6 +25,7 @@ C:\Users\Deva\ISIDRAGUZMAN\2DAW_DWES\UT2\EjerciciosDeClaseWeb\Ejercicios1\obj\De
 C:\Users\Deva\ISIDRAGUZMAN\2DAW_DWES\UT2\EjerciciosDeClaseWeb\Ejercicios1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Ejercicios1.props
 C:\Users\Deva\ISIDRAGUZMAN\2DAW_DWES\UT2\EjerciciosDeClaseWeb\Ejercicios1\obj\Debug\net8.0\staticwebassets.pack.json
 C:\Users\Deva\ISIDRAGUZMAN\2DAW_DWES\UT2\EjerciciosDeClaseWeb\Ejercicios1\obj\Debug\net8.0\scopedcss\bundle\Ejercicios1.styles.css
+C:\Users\Deva\ISIDRAGUZMAN\2DAW_DWES\UT2\EjerciciosDeClaseWeb\Ejercicios1\obj\Debug\net8.0\Ejercici.861412B0.Up2Date
 C:\Users\Deva\ISIDRAGUZMAN\2DAW_DWES\UT2\EjerciciosDeClaseWeb\Ejercicios1\obj\Debug\net8.0\Ejercicios1.dll
 C:\Users\Deva\ISIDRAGUZMAN\2DAW_DWES\UT2\EjerciciosDeClaseWeb\Ejercicios1\obj\Debug\net8.0\refint\Ejercicios1.dll
 C:\Users\Deva\ISIDRAGUZMAN\2DAW_DWES\UT2\EjerciciosDeClaseWeb\Ejercicios1\obj\Debug\net8.0\Ejercicios1.pdb
