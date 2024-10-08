@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\LibreriaAPI_conlambdas.props" />
+</Project>

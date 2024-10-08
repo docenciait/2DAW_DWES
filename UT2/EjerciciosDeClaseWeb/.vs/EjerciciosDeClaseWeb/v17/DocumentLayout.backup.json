@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Deva\\ISIDRAGUZMAN\\2DAW_DWES\\UT2\\EjerciciosDeClaseWeb\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{501EF6A1-5DD3-4137-B595-0BA73B77DA1F}|Ejercicios2\\Ejercicios2.csproj|c:\\users\\deva\\isidraguzman\\2daw_dwes\\ut2\\ejerciciosdeclaseweb\\ejercicios2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{501EF6A1-5DD3-4137-B595-0BA73B77DA1F}|Ejercicios2\\Ejercicios2.csproj|solutionrelative:ejercicios2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{470EC3FA-D237-4FD7-8D7B-1638017FDEF1}|Documentaci\u00F3n\\UNIDAD2.csproj|c:\\users\\deva\\isidraguzman\\2daw_dwes\\ut2\\ejerciciosdeclaseweb\\documentaci\u00F3n\\unidad2.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{470EC3FA-D237-4FD7-8D7B-1638017FDEF1}|Documentaci\u00F3n\\UNIDAD2.csproj|solutionrelative:documentaci\u00F3n\\unidad2.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F8D154C-DC1D-4131-B1DC-B9D54046A025}|LibreriaAPI_sinlambdas\\LibreriaAPI_sinlambdas.csproj|c:\\users\\deva\\isidraguzman\\2daw_dwes\\ut2\\ejerciciosdeclaseweb\\libreriaapi_sinlambdas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F8D154C-DC1D-4131-B1DC-B9D54046A025}|LibreriaAPI_sinlambdas\\LibreriaAPI_sinlambdas.csproj|solutionrelative:libreriaapi_sinlambdas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Unidad2.md",
+              "DocumentMoniker": "C:\\Users\\Deva\\ISIDRAGUZMAN\\2DAW_DWES\\UT2\\EjerciciosDeClaseWeb\\Documentaci\u00F3n\\Unidad2.md",
+              "RelativeDocumentMoniker": "Documentaci\u00F3n\\Unidad2.md",
+              "ToolTip": "C:\\Users\\Deva\\ISIDRAGUZMAN\\2DAW_DWES\\UT2\\EjerciciosDeClaseWeb\\Documentaci\u00F3n\\Unidad2.md",
+              "RelativeToolTip": "Documentaci\u00F3n\\Unidad2.md",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAAAIsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-10-08T10:16:05.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Deva\\ISIDRAGUZMAN\\2DAW_DWES\\UT2\\EjerciciosDeClaseWeb\\Ejercicios2\\Program.cs",
-              "RelativeDocumentMoniker": "Ejercicios2\\Program.cs",
-              "ToolTip": "C:\\Users\\Deva\\ISIDRAGUZMAN\\2DAW_DWES\\UT2\\EjerciciosDeClaseWeb\\Ejercicios2\\Program.cs",
-              "RelativeToolTip": "Ejercicios2\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAkwCQAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Deva\\ISIDRAGUZMAN\\2DAW_DWES\\UT2\\EjerciciosDeClaseWeb\\LibreriaAPI_sinlambdas\\Program.cs",
+              "RelativeDocumentMoniker": "LibreriaAPI_sinlambdas\\Program.cs",
+              "ToolTip": "C:\\Users\\Deva\\ISIDRAGUZMAN\\2DAW_DWES\\UT2\\EjerciciosDeClaseWeb\\LibreriaAPI_sinlambdas\\Program.cs",
+              "RelativeToolTip": "LibreriaAPI_sinlambdas\\Program.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAawFAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T05:14:55.348Z",
+              "WhenOpened": "2024-10-08T10:02:01.801Z",
               "EditorCaption": ""
             }
           ]

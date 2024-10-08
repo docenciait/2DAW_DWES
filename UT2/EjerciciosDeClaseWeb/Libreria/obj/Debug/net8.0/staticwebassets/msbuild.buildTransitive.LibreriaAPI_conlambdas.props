@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\LibreriaAPI_conlambdas.props" />
+</Project>

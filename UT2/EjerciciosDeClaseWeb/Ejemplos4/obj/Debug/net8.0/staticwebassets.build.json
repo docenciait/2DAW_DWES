@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "mN6JrAE8qfhcVO3NunJZl/VUCtgDAdfRrSnorpFnExE=",
+  "Source": "Ejemplos4_excepciones",
+  "BasePath": "_content/Ejemplos4_excepciones",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Ejemplos4_excepciones\\wwwroot",
+      "Source": "Ejemplos4_excepciones",
+      "ContentRoot": "C:\\Users\\Deva\\ISIDRAGUZMAN\\2DAW_DWES\\UT2\\EjerciciosDeClaseWeb\\Ejemplos4\\wwwroot\\",
+      "BasePath": "_content/Ejemplos4_excepciones",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Deva\\ISIDRAGUZMAN\\2DAW_DWES\\UT2\\EjerciciosDeClaseWeb\\Ejemplos4\\wwwroot\\index.html",
+      "SourceId": "Ejemplos4_excepciones",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Deva\\ISIDRAGUZMAN\\2DAW_DWES\\UT2\\EjerciciosDeClaseWeb\\Ejemplos4\\wwwroot\\",
+      "BasePath": "_content/Ejemplos4_excepciones",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

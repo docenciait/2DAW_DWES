@@ -2,24 +2,18 @@ namespace EjerciciosDeClaseWeb
 {
     public class Program
     {
+        /**
+         * En este ejemplo se pueden ver cómo al path del Endpoint
+         * se puede llamar con un objeto o con lambdas.
+         * Con lambdas también se puede renderizar el html, pero eso será mejor
+         * verlo con el sistema de templates
+         */
+        
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
-         
-            // Add services for swagger
-
-            builder.Services.AddEndpointsApiExplorer();
-            builder.Services.AddSwaggerGen();
-            
-            var app = builder.Build();
-
-            // Configuración Swagger
-
-            if (app.Environment.IsDevelopment())
-            {
-                app.UseSwagger();
-                app.UseSwaggerUI();
-            }
+                    
+            var app = builder.Build();      
 
             //app.MapGet("/", new Imprimir().Imprime);
 

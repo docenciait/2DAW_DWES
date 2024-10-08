@@ -453,9 +453,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Deva\\ISIDRAGUZMAN\\2DAW_DWES\\UT2\\EjerciciosDeClaseWeb\\EjerciciosDeClaseWeb\\EjerciciosDeClaseWeb.csproj",
-      "projectName": "EjerciciosDeClaseWeb",
-      "projectPath": "C:\\Users\\Deva\\ISIDRAGUZMAN\\2DAW_DWES\\UT2\\EjerciciosDeClaseWeb\\EjerciciosDeClaseWeb\\EjerciciosDeClaseWeb.csproj",
+      "projectUniqueName": "C:\\Users\\Deva\\ISIDRAGUZMAN\\2DAW_DWES\\UT2\\EjerciciosDeClaseWeb\\EjerciciosDeClaseWeb\\Ejercicio1_intro.csproj",
+      "projectName": "Ejercicio1_intro",
+      "projectPath": "C:\\Users\\Deva\\ISIDRAGUZMAN\\2DAW_DWES\\UT2\\EjerciciosDeClaseWeb\\EjerciciosDeClaseWeb\\Ejercicio1_intro.csproj",
       "packagesPath": "C:\\Users\\Deva\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Deva\\ISIDRAGUZMAN\\2DAW_DWES\\UT2\\EjerciciosDeClaseWeb\\EjerciciosDeClaseWeb\\obj\\",
       "projectStyle": "PackageReference",

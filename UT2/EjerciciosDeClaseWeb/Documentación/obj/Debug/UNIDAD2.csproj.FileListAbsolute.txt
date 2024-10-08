@@ -1,0 +1,2 @@
+C:\Users\Deva\ISIDRAGUZMAN\2DAW_DWES\UT2\EjerciciosDeClaseWeb\Documentación\obj\Debug\UNIDAD2.csproj.AssemblyReference.cache
+C:\Users\Deva\ISIDRAGUZMAN\2DAW_DWES\UT2\EjerciciosDeClaseWeb\Documentación\obj\Debug\UNIDAD2.csproj.CoreCompileInputs.cache
